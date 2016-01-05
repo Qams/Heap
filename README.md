@@ -1,1 +1,1 @@
-Heap implementation with JUnit tests. App build in Gradle.
+Heap implementation with JUnit tests. App builds in Gradle.
